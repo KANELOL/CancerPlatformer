@@ -1,0 +1,10 @@
+C:\Users\GET\source\repos\randomPlatformer\randomPlatformerForm\bin\Debug\randomPlatformerForm.exe.config
+C:\Users\GET\source\repos\randomPlatformer\randomPlatformerForm\bin\Debug\randomPlatformerForm.exe
+C:\Users\GET\source\repos\randomPlatformer\randomPlatformerForm\bin\Debug\randomPlatformerForm.pdb
+C:\Users\GET\source\repos\randomPlatformer\randomPlatformerForm\obj\Debug\randomPlatformerForm.csprojAssemblyReference.cache
+C:\Users\GET\source\repos\randomPlatformer\randomPlatformerForm\obj\Debug\randomPlatformerForm.Form1.resources
+C:\Users\GET\source\repos\randomPlatformer\randomPlatformerForm\obj\Debug\randomPlatformerForm.Properties.Resources.resources
+C:\Users\GET\source\repos\randomPlatformer\randomPlatformerForm\obj\Debug\randomPlatformerForm.csproj.GenerateResource.cache
+C:\Users\GET\source\repos\randomPlatformer\randomPlatformerForm\obj\Debug\randomPlatformerForm.csproj.CoreCompileInputs.cache
+C:\Users\GET\source\repos\randomPlatformer\randomPlatformerForm\obj\Debug\randomPlatformerForm.exe
+C:\Users\GET\source\repos\randomPlatformer\randomPlatformerForm\obj\Debug\randomPlatformerForm.pdb
